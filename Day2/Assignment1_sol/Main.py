@@ -1,6 +1,5 @@
-from Assignment1.Utils import read_json
-from Assignment1.DbConnect import get_connection
-
+from Day2.Assignment1_sol.DbConnect import get_connection
+from Day2.Assignment1_sol.Utils import read_json
 
 if __name__ == "__main__":
 

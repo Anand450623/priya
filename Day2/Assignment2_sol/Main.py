@@ -1,6 +1,5 @@
-from Assignment2.Utils import read_file_contents
-from Assignment2.DbConnect import get_connection
-
+from Day2.Assignment1_sol.DbConnect import get_connection
+from Day2.Assignment1_sol.Utils import read_file_contents
 
 if __name__ == "__main__":
 

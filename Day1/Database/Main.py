@@ -1,6 +1,4 @@
 import psycopg2
-from Database.DbConnect import get_connection
-
 
 # Ref: https://www.psycopg.org/docs/usage.html#passing-parameters-to-sql-queries
 if __name__ == "__main__":

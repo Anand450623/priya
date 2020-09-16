@@ -1,4 +1,4 @@
-from jsonReader.JsonUtils import reader
+from Day1.jsonReader.JsonUtils import reader
 
 if __name__ == "__main__":
 

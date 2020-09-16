@@ -1,4 +1,4 @@
-from Basics.Utils import generator, gcd
+from Day1.Basics.Utils import generator, gcd
 
 
 if __name__ == "__main__":
@@ -8,7 +8,7 @@ if __name__ == "__main__":
     print(a.__next__())
     print(a.__next__())
 
-    print("The required gcd is = ", gcd(5, 30))
+    print(f"The required gcd is = {gcd(5, 30)}")
 
     for i in range(10):
         print(i, end=" ")
@@ -16,4 +16,4 @@ if __name__ == "__main__":
 
     print()
     text = "priya"
-    print(f"{text} is good girl.")
+    print(f"{text} is bad girl.")

@@ -1,4 +1,4 @@
-from Assignment3.Model import train
+from Day2.Assignment3.Model import train
 
 
 if __name__ == "__main__":
